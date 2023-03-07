@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 touch up_to_date
 =======
 touch
 >>>>>>> update_script
+=======
+git pull origin
+>>>>>>> f262d5310293fd3ac563e6b62c4ebd5acb3c5962
